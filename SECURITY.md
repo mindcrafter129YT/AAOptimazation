@@ -12,4 +12,3 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 Send us an email : mindcrafter129business@gmail.com
-Or just open a 
