@@ -5,9 +5,9 @@ How to install:
 
 1) Stop using th normal minecraft launcher!
 -------------------------------------------
-3) Download the file
+2) Download the file
 --------------------
-5) Install the Modrinth Launcher : (https://modrinth.com/app)
+3) Install the Modrinth Launcher : (https://modrinth.com/app)
  ------------------------------------------------------------
 4) Login to minecraft
 -------------------------------------------------------------------------------------------------
