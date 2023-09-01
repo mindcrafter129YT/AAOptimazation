@@ -19,7 +19,7 @@ How to install:
 
 ![Image](https://tinypic.host/images/2023/09/01/Screenshot-2023-09-01-141808.png)
 ----------------------------------------------------------------------------------------------
-5) Search for AAOptimization click install
+5) Search for AAOptimization, click install
  -----------------------------------------
-6) Click play
+6) Click play and boom! Have Fun!
  
