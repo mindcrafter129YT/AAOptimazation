@@ -29,5 +29,5 @@ How to install:
 
 FYI
 |-------------------------------------------------
-|I will not be making a quilt version do not ask! |
-|                                                 |
+|I will not be making a quilt or forge version do not ask! |
+|                                                          |
