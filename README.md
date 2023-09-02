@@ -3,7 +3,7 @@ AAOptimization is a performance focused modpack trying to get the best fps in mi
 
 How to install:
 
-1) Stop using th normal minecraft launcher!
+1) Stop using the normal minecraft launcher!
 -------------------------------------------
 2) Install the Modrinth Launcher : (https://modrinth.com/app)
  ------------------------------------------------------------
