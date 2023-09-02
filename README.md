@@ -22,4 +22,12 @@ How to install:
 5) Search for AAOptimization, click install
  -----------------------------------------
 6) Click play and boom! Have Fun!
- 
+
+
+
+
+
+FYI
+|-------------------------------------------------
+|I will not be making a quilt version do not ask! |
+|                                                 |
