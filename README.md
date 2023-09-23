@@ -3,31 +3,21 @@ AAOptimization is a performance focused modpack trying to get the best fps in mi
 
 How to install:
 
-1) Stop using the normal minecraft launcher!
--------------------------------------------
-2) Install the Modrinth Launcher : (https://modrinth.com/app)
- ------------------------------------------------------------
-3) Login to minecraft
--------------------------------------------------------------------------------------------------
-4) Click Search
+ **1)** Press get/download/play
 
+--------------------------------------------------
 
+**2)** Install it/import it into the curseforge launcher
 
+--------------------------------------------------
 
+**3)** Play!
 
+--------------------------------------------------
 
-
-![Image](https://tinypic.host/images/2023/09/01/Screenshot-2023-09-01-141808.png)
-----------------------------------------------------------------------------------------------
-5) Search for AAOptimization, click install
- -----------------------------------------
-6) Click play and boom! Have Fun!
-
-
-
-
-
-FYI
+**ℹ️** INFO **ℹ️**
 |-------------------------------------------------
-|I will not be making a quilt or forge version do not ask! |
-|                                                          |
+|I will not be making a quilt or forge version DO NOT ASK! 
+|🔴Do not reupload it I WILL take it town if you do!🔴
+
+
